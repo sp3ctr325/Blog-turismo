@@ -2,10 +2,6 @@
 	width:1.8em;
 	
 }
-.imagen1{
-	width: 97%;
-	margin-top: 10px;
-}
 .fondo{
 	background-image: url(../img/SitioMaya.jpg);
 	background-attachment: fixed;
@@ -14,7 +10,16 @@
 	height:auto;
 
 }
+.imagen1{
+	width: 97%;
+	margin-top: 10px;
+}
+
 .imagen2{
 	width: 100%;
+	margin-top: 10px;
+}
+.autor{
+	width: 40%;
 	margin-top: 10px;
 }
